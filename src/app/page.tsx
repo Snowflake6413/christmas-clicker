@@ -13,7 +13,7 @@ export default function Home() {
           <p className={"text-3xl font-bold"}>times orpheus has been clicked: {count}</p>
           <JollyOrpheusClick onClick={() => {setCount(count + 1)}} />
             <p className={"text-3xl font-bold"}>click the orpheus to be awarded with a JOLLY GIFT.</p>
-            <a href="https://github.com/Snowflake6413">made by Snowflake6413s</a>
+            <a href="https://github.com/Snowflake6413">made by Snowflake6413</a>
             <img src="https://assets.hackclub.com/flag-orpheus-left.png"></img>
             <a href="https://hackclub.com">click to join the hack club</a>
         </div>

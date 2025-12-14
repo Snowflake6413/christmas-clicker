@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "heidi clicker REAL",
-  description: "on the first day of haxmas my orpheus gave to me.....a react orpheus clicker game!",
+  description: "on the first day of haxmas my orpheus gave to me.....a react based clicker game!",
 };
 
 export default function RootLayout({

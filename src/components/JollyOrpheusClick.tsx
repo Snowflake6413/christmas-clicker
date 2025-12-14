@@ -7,7 +7,7 @@ type JollyOrpheusClickProps = {
 export default function JollyOrpheusClick({ onClick }: JollyOrpheusClickProps) {
 	return (
 		<button onClick={onClick}>
-			<Image src="/jollyorph.png" width={512} height={512} alt="Jolly Orpheus"/>
+			<Image src="/heidi.png" width={512} height={512} alt="Heidi"/>
 		</button>
 	)
 }
